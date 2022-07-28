@@ -122,3 +122,75 @@ modèle à l’aide de MLFlow. Créez des instances de calcul et de
 stockage de données sur AWS et sur Google Cloud. Passez du
 modèle à la production avec airflow et github. Apprenez à utiliser les
 containers avec Docker et Kubernetes.
+
+
+# les metiers de la data science
+1. Data librarian
+2. Data Journalist
+3. Data analyst
+4. Data architect
+5. Data engineer
+6. Data steward
+7. Data archivist
+
+# expertise metier
+
+1. Data librarian
+
+il s'agit d'un professionnel de l'information chargé de développer une expertise technique sur des solutions pratiques de gestion, d'archivage et de diffusion de données et sur l'exploration et la visualisation de données.
+
+2. Data Journalist
+
+En tant que journaliste de données, vous assistez à des événements sportifs pour collecter des statistiques sportives et les servir en temps réel
+
+
+3. Data analyst
+
+La tâche de ce dernier consiste en effet à traiter les différentes données concernant les clients, les produits ou les performances de l’entreprise afin de dégager des indicateurs utiles aux décideurs. Ainsi, les informations fournies par le data analyst permettent aux entreprises de définir les produits à proposer aux clients en fonction de leurs besoins, la stratégie marketing à adopter ou les améliorations à apporter au processus de production. 
+
+
+Un analyste de données collecte, traite et effectue des analyses statistiques sur de grands ensembles de données. Il découvre comment les données peuvent être utilisées pour répondre à des questions et résoudre des problèmes. 
+
+4. Data architect
+
+Le Data architect conçoit et gère de vastes bases de données  pour stocker et organiser les données. Ils étudient l’infrastructure de données actuelle d’une entreprise et élaborent un plan pour intégrer les systèmes actuels à un état futur souhaité. Le Data architecs écrit ensuite un code pour créer un nouveau cadre sécurisé pour les bases de données qui peuvent être utilisées par des centaines ou des milliers de personnes.
+
+5. Data engineer
+
+Le Data Engineer est principalement chargé de concevoir, construire, tester et maintenir des systèmes de gestion de données. Cela permet de générer des données applicables à des projets spécifiques. Pour ce faire, les ingénieurs doivent avoir une solide maîtrise des langages de script courants. Ils doivent résoudre des problèmes complexes au niveau du codage.
+
+6. Data steward
+
+La gestion des données est l’ensemble des pratiques qui garantissent que les données d’une organisation sont accessibles, utilisables, sûres et fiables. Elle comprend la supervision de chaque aspect du cycle de vie des données : création, préparation, utilisation, stockage, archivage et suppression des données, conformément aux principes de gouvernance des données établis par l’organisation pour promouvoir la qualité et l’intégrité des données.
+
+7. Data archivist
+
+L'archivage des données consiste à identifier les données qui ne sont plus actives et à les déplacer des systèmes de production vers des systèmes de stockage à long terme. Les données d'archives sont stockées de manière à pouvoir être remises en service à tout moment.
+
+Une stratégie d'archivage des données optimise les performances des ressources nécessaires dans le système actif, permettant aux utilisateurs d'accéder rapidement aux périphériques de stockage d'archives de données ou aux plans d'archivage de données pour une récupération facile et un stockage des informations plus rentable. Il clarifie également la manière dont les utilisateurs doivent déplacer les données pour obtenir les meilleures performances dans le cadre des réglementations applicables et de la loi.
+
+8. Data Scientist
+
+Spécialiste des statistiques, de l’informatiques et du marketing, le Data Scientist recueille, traite, analyse et fait parler les données massives, autrement appelées “big data” ,dans le but d’améliorer les performances d'une entreprise.
+
+Compétences requises pour un Data Scientist
+
+Programmation : Python, SQL, Scala, Java, R, MATLAB
+L’apprentissage machine : Traitement du langage naturel, classification, regroupement,Méthodes d’ensemble, apprentissage approfondi
+Visualisation des données : Tableau, SAS, D3.js, Python, Java, bibliothèques R
+Les grandes plateformes de données : MongoDB, Oracle, Microsoft Azure, Cloudera
+
+9. DataOps 
+
+Le Gartner définit le DataOps comme « une pratique de gestion des données collaborative axée sur l’amélioration de la communication, de l’intégration et de l’automatisation des flux de données entre les gestionnaires de données (ingénieurs de données, architectes de données, gestionnaires de données) et les consommateurs de données (Data Scientists, Business Analysts, Business teams) à travers une organisation »
+
+
+[link](https://actualiteinformatique.fr/data/definition-metier-data-protection-officer)
+
+
+# maîtriser le logiciel SASS
+
+# difference BI et DataScience
+* la bi ou informatique decisionnelle se base sur le passé en utilisant des methodes statistiques pour décrire un phénomène
+
+* la datascience quant à elle se base sur le présent pour anticiper le futur en consctrusant des modèles statistiques robuste pour expliquer les phénomène et faire des anticipations
